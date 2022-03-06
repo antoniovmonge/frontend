@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Antonio edited it once again!! Bitch <code>src/App.js</code> and saved it.
+          Antonio edited it once again!! <code>src/App.js</code> and saved it.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Don't Learn React! Learn Django instead!
+          Don't Learn React! Learn Django instead! Feature Branch :)
         </a>
       </header>
     </div>
